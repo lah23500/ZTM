@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+img {
+  height: 300px;
+  width: 450px;
+}
