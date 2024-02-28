@@ -1,6 +1,5 @@
 body {
   margin: 0px;
-  background-color: green;
 }
 
 .container {
@@ -17,7 +16,6 @@ h1 {
   width: 400px;
   text-align: center;
   box-shadow: 4px 4px 5px gray;
-  margin-top: 10px;
 }
 
 img {
